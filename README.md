@@ -1,2 +1,2 @@
-# LC-py
-leetcode记录仓库（python写题）
+# LC_Submit
+leetcode记录仓库
